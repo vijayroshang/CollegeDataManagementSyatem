@@ -1,0 +1,16 @@
+127.0.0.1 - - [19/Jan/2023:14:00:37 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [19/Jan/2023:14:00:43 +0530] "GET /CollegeDataanagementSystem/Front.jsp HTTP/1.1" 200 582
+0:0:0:0:0:0:0:1 - - [19/Jan/2023:14:00:43 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [19/Jan/2023:14:00:52 +0530] "GET /CollegeDataanagementSystem/Insert.jsp HTTP/1.1" 200 671
+0:0:0:0:0:0:0:1 - - [19/Jan/2023:14:01:55 +0530] "GET /CollegeDataanagementSystem/insert?roll_num=0&name=sahana&branch=ece&dob=03%2F12%2F2000&m1=99&m2=90&m3=100 HTTP/1.1" 200 36
+0:0:0:0:0:0:0:1 - - [19/Jan/2023:14:02:03 +0530] "GET /CollegeDataanagementSystem/fetch HTTP/1.1" 200 1334
+0:0:0:0:0:0:0:1 - - [19/Jan/2023:14:02:11 +0530] "GET /CollegeDataanagementSystem/Front.jsp HTTP/1.1" 200 582
+0:0:0:0:0:0:0:1 - - [19/Jan/2023:14:02:14 +0530] "GET /CollegeDataanagementSystem/find.jsp HTTP/1.1" 200 383
+0:0:0:0:0:0:0:1 - - [19/Jan/2023:14:02:21 +0530] "GET /CollegeDataanagementSystem/find?row_num=7 HTTP/1.1" 500 1004
+0:0:0:0:0:0:0:1 - - [19/Jan/2023:14:02:29 +0530] "GET /CollegeDataanagementSystem/find?row_num=5 HTTP/1.1" 500 81
+0:0:0:0:0:0:0:1 - - [19/Jan/2023:14:02:37 +0530] "GET /CollegeDataanagementSystem/find?row_num=6 HTTP/1.1" 500 82
+0:0:0:0:0:0:0:1 - - [19/Jan/2023:14:03:06 +0530] "GET /CollegeDataanagementSystem/find?row_num=6 HTTP/1.1" 500 82
+0:0:0:0:0:0:0:1 - - [19/Jan/2023:14:03:08 +0530] "GET /CollegeDataanagementSystem/find?row_num=6 HTTP/1.1" 500 82
+0:0:0:0:0:0:0:1 - - [19/Jan/2023:14:03:09 +0530] "GET /CollegeDataanagementSystem/find?row_num=6 HTTP/1.1" 500 82
+0:0:0:0:0:0:0:1 - - [19/Jan/2023:14:03:13 +0530] "GET /CollegeDataanagementSystem/find?row_num=6 HTTP/1.1" 500 82
+0:0:0:0:0:0:0:1 - - [19/Jan/2023:14:03:23 +0530] "GET /CollegeDataanagementSystem/find?row_num=6 HTTP/1.1" 500 82

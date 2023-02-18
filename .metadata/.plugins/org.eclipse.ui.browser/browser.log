@@ -1,0 +1,53 @@
+
+Jan 17, 2023 10:06:55.03 NEW SESSION
+Jan 17, 2023 10:06:55.04 [14436:17212:0117/100655.033:ERROR:device_event_log_impl.cc(215)] [10:06:55.033] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 17, 2023 10:06:55.05 [14436:17212:0117/100655.033:ERROR:device_event_log_impl.cc(215)] [10:06:55.033] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 17, 2023 10:18:39.52 [4272:15804:0117/101839.525:ERROR:device_event_log_impl.cc(215)] [10:18:39.526] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 17, 2023 10:18:39.53 [4272:15804:0117/101839.525:ERROR:device_event_log_impl.cc(215)] [10:18:39.527] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 17, 2023 10:24:09.97 [4272:21196:0117/102409.974:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Jan 17, 2023 11:06:32.50 [4272:21196:0117/110632.505:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 17, 2023 11:06:55.15 [4272:21196:0117/110655.158:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 17, 2023 11:07:39.96 [4272:21196:0117/110739.965:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 17, 2023 11:09:20.80 [4272:21196:0117/110920.809:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 17, 2023 11:12:37.97 [4272:21196:0117/111237.974:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 17, 2023 11:18:01.77 [4272:21196:0117/111801.776:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 17, 2023 11:46:38.05 [4272:21196:0117/114638.057:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 17, 2023 11:56:55.26 [4272:21196:0117/115655.262:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Jan 17, 2023 12:22:57.06 [4272:21196:0117/122257.061:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Jan 17, 2023 12:50:28.24 [4272:21196:0117/125028.248:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Jan 17, 2023 12:56:39.68 [4272:21196:0117/125639.682:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+Jan 17, 2023 13:07:08.32 [4272:21196:0117/130708.325:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Jan 17, 2023 13:38:53.67 [4272:21196:0117/133853.678:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Jan 17, 2023 16:30:37.29 [4272:21196:0117/163037.294:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Jan 17, 2023 16:30:42.05 [4272:21196:0117/163042.050:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 17, 2023 16:30:42.26 [4272:19072:0117/163042.230:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jan 17, 2023 16:30:52.67 [4272:21196:0117/163052.672:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+Jan 17, 2023 16:30:52.67 [4272:8196:0117/163052.672:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Jan 17, 2023 16:34:57.88 [4272:21196:0117/163457.881:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Jan 17, 2023 16:36:14.36 [4272:21196:0117/163614.369:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Jan 17, 2023 16:36:32.34 [4272:21196:0117/163632.348:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Jan 17, 2023 16:38:15.66 [4272:21196:0117/163815.666:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+Jan 17, 2023 16:38:44.36 [4272:21196:0117/163844.365:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Jan 17, 2023 16:41:00.85 [4272:21196:0117/164100.857:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+Jan 17, 2023 16:41:21.57 [4272:21196:0117/164121.574:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -103
+Jan 17, 2023 16:41:23.61 [4272:21196:0117/164123.599:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 17, 2023 16:41:24.85 [4272:15804:0117/164124.857:ERROR:device_event_log_impl.cc(215)] [16:41:24.853] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Jan 17, 2023 16:41:53.64 [4272:21196:0117/164153.640:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+Jan 17, 2023 16:42:39.34 [4272:21196:0117/164239.344:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Jan 17, 2023 16:43:09.74 [4272:21196:0117/164309.744:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Jan 17, 2023 16:43:42.36 [4272:21196:0117/164342.360:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Jan 17, 2023 16:44:50.91 [4272:21196:0117/164450.919:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -118
+Jan 17, 2023 16:45:25.64 [4272:21196:0117/164525.648:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 17, 2023 16:45:44.39 [4272:21196:0117/164544.393:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+Jan 17, 2023 16:45:49.39 [4272:21196:0117/164549.394:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+Jan 17, 2023 16:45:59.36 [4272:21196:0117/164559.366:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Jan 17, 2023 16:46:01.37 [4272:21196:0117/164601.374:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+Jan 17, 2023 16:46:22.87 [4272:21196:0117/164622.875:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+
+Jan 19, 2023 14:00:44.09 NEW SESSION
+Jan 19, 2023 14:00:44.09 [19972:19984:0119/140044.087:ERROR:device_event_log_impl.cc(215)] [14:00:44.086] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 19, 2023 14:00:44.09 [19972:19984:0119/140044.087:ERROR:device_event_log_impl.cc(215)] [14:00:44.086] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 19, 2023 14:15:56.77 [19972:10204:0119/141556.775:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Jan 19, 2023 14:28:34.88 [19972:10204:0119/142834.883:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 19, 2023 14:29:02.61 [19972:10204:0119/142902.617:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Jan 19, 2023 14:29:55.02 [19972:10204:0119/142955.028:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
